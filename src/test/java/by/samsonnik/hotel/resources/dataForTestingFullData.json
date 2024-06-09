@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hilton",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "first brand",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Osp",
+      "country": "Russia",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  },
+  {
+    "name": "Bilton",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "brand 22",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Minsk",
+      "country": "Belarus",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  },
+  {
+    "name": "Gilton",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "first brand",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Osp",
+      "country": "Russia",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  },
+  {
+    "name": "Hotel",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "second brand",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Moscow",
+      "country": "Russia",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  },
+  {
+    "name": "Hotel hotel",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "second brand",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Tagil",
+      "country": "Russia",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  },
+  {
+    "name": "Best",
+    "description": "rious rooms in the Belorussian capital and stunning views of Minsk city from the hotel's 20th floor ...",
+    "brand": "best brand",
+    "address": {
+      "houseNumber": 9,
+      "street": "Pobediteley Avenue",
+      "city": "Rostov",
+      "country": "Russia",
+      "postCode": "220004"
+    },
+    "contacts": {
+      "phone": "+375 17 309-80-00",
+      "email": "doubletreeminsk.info@hilton.com"
+    },
+    "arrivalTime": {
+      "checkIn": "14:00",
+      "checkOut": "12:00"
+    }
+  }
+]
